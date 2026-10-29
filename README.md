@@ -109,13 +109,13 @@ Two predictor formulations are evaluated:
 
 In the expanded `mlp_cv/` example:
 
-- `mainSelectNN.m`: main script for neural-network model selection. 
+- `mainSelectNN.m`: main script for neural-network model selection. To use it, first unzip the files in the results folder.
 - `mainTrainNN.m`: main script for neural-network training.
 - `model/defineMLP.m`: defines the multilayer-perceptron architecture.
 - `model/evaluateModelPerform.m`: evaluates model performance using the MAE and R2.
 - `preprocessing/buildData.m`: constructs the datasets (modeling and test) used by the model.
 - `preprocessing/generateSyntheticData.m`: generates synthetic observations for model development.
-- `results/`: destination for generated outputs.
+- `results/`: contains the trained models (as a zip file) with each combination of the hyperparameters. 
 
 The other folders follow structures similar to the `mlp_cv/` example.
 
