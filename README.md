@@ -193,7 +193,7 @@ This work acknowledges support from the Pescando 4.0, DSInVar, Programa de Cienc
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the **LICENSE** file for details.
+This project is licensed under the GNU General Public License v3.0.
 
 This software is provided without warranty of any kind. The authors shall not be held liable for any damages arising from its use. See the **LICENSE** file for the complete terms.
 
